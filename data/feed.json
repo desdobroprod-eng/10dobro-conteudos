@@ -891,17 +891,6 @@
     "url_youtube": "https://youtube.com/watch?v=8-orF5j4yWk"
   },
   {
-    "id": "XqPbJoHLUPY",
-    "canal": "pra_ouvir",
-    "canal_nome": "Pra Ouvir no Trânsito",
-    "titulo": "O Selo do Berço: A Suprema Corte e a Alma Esquecida da Nação",
-    "resumo": "SUPREMA CORTE BARRA TRUMP: A decisão que mantém a cidadania por nascimento nos EUA expõe a batalha existencial entre direito inalienável e vontade de poder do Estado. Este episódio do Pra Ouvir no Trânsito analisa a Realpolitik da identidad",
-    "corpo": "SUPREMA CORTE BARRA TRUMP: A decisão que mantém a cidadania por nascimento nos EUA expõe a batalha existencial entre direito inalienável e vontade de poder do Estado. Este episódio do Pra Ouvir no Trânsito analisa a Realpolitik da identidade nacional.\n\nAstrogildo e Angélica debatem: quem define quem pertence a uma nação? Quando o berço deixa de ser suficiente, o que resta da promessa do Estado-nação moderno?",
-    "thumb": "assets/thumbs/XqPbJoHLUPY.jpg",
-    "data": "2026-06-30",
-    "url_youtube": "https://youtube.com/watch?v=XqPbJoHLUPY"
-  },
-  {
     "id": "G8SgC_ZpCkQ",
     "canal": "bom_dia",
     "canal_nome": "Bom dia com Jesus",
@@ -911,5 +900,16 @@
     "thumb": "assets/thumbs/G8SgC_ZpCkQ.jpg",
     "data": "2026-06-30",
     "url_youtube": "https://youtube.com/watch?v=G8SgC_ZpCkQ"
+  },
+  {
+    "id": "XqPbJoHLUPY",
+    "canal": "pra_ouvir",
+    "canal_nome": "Pra Ouvir no Trânsito",
+    "titulo": "O Selo do Berço: A Suprema Corte e a Alma Esquecida da Nação",
+    "resumo": "SUPREMA CORTE BARRA TRUMP: A decisão que mantém a cidadania por nascimento nos EUA expõe a batalha existencial entre direito inalienável e vontade de poder do Estado. Este episódio analisa a Realpolitik da identidade nacional.",
+    "corpo": "SUPREMA CORTE BARRA TRUMP: A decisão que mantém a cidadania por nascimento nos EUA expõe a batalha existencial entre direito inalienável e vontade de poder do Estado. Este episódio analisa a Realpolitik da identidade nacional.\n\nAstrogildo e Angélica debatem: quem define quem pertence a uma nação? Quando o berço deixa de ser suficiente, o que resta da promessa do Estado-nação moderno?",
+    "thumb": "assets/thumbs/XqPbJoHLUPY.jpg",
+    "data": "2026-06-30",
+    "url_youtube": "https://youtube.com/watch?v=XqPbJoHLUPY"
   }
 ]
