@@ -115,6 +115,9 @@ nav a:hover{color:var(--text);background:var(--glass);border-color:var(--border)
 .foot{max-width:1180px;margin:60px auto 0;padding:36px 24px 40px;border-top:1px solid var(--border)}
 .foot-inner{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:20px}
 .foot-brand p{color:var(--text2);font-size:.85rem;margin-top:8px;max-width:360px}
+.foot-brand .credit{font-size:.72rem;color:var(--text3);margin-top:10px}
+.foot-brand .credit a{color:var(--text2);transition:.2s}
+.foot-brand .credit a:hover{color:var(--cyan)}
 .foot-links{display:flex;gap:18px;flex-wrap:wrap}
 .foot-links a{color:var(--text2);font-size:.85rem;transition:.2s}
 .foot-links a:hover{color:var(--cyan)}
